@@ -1,4 +1,4 @@
-# projeto-plugin
+# YouTubeTrailer
 
 ## Project setup
 ```
