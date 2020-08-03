@@ -17,14 +17,6 @@
             </v-expansion-panels>
           </v-card-text>
           <!-- <v-card-text>{{movie.overview}}</v-card-text> -->
-          <v-progress-circular
-            size="90"
-            color="white"
-            rotate="-90"
-            width="8"
-            :value="movie.vote_average * 10"
-            class="font-weight-heavy my-5"
-          >{{movie.vote_average * 10}}</v-progress-circular>
         </v-layout>
       </v-card>
     </v-flex>
